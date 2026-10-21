@@ -1,4 +1,4 @@
-# 🏢 BlueMoon - Hệ Thống Quản Lý Dân Cư Chung Cư (Nhóm 13)
+# 🏢 BlueMoon - Hệ Thống Quản Lý Dân Cư Chung Cư 
 
 BlueMoon là một giải pháp phần mềm quản lý chung cư toàn diện, được xây dựng nhằm mục đích số hóa và tự động hóa các quy trình quản lý hộ dân, nhân khẩu, phương tiện và đặc biệt là hệ thống thu/đóng phí của tòa nhà.
 
@@ -67,4 +67,4 @@ Bạn có thể sử dụng các tài khoản sau để trải nghiệm trực t
 | `cudan02` | `123456` | Cư dân | Truy cập Cổng thông tin Cư dân (Hộ HK002) |
 
 ---
-**© 2026 Nhóm 13 - Nhập môn Công nghệ Phần mềm**
+
